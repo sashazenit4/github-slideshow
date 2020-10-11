@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello people! I am beginner in Git, but I really enjoy it.
+Chicha! Chicha! Chicha! Chicha!
 Use the left arrow to go back!
